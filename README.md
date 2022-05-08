@@ -35,10 +35,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 
 
-### 💬 Ask me about ...
-- sobona0722@gmail.com
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bona0722&show_icons=true&theme=radical)
