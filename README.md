@@ -1,4 +1,5 @@
-<!--
+
+ <!--
 **bona0722/bona0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,8 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bona0722&show_icons=true&theme=radical)
 -->
-
+<div align="center">
+  
 ### 🖥 Tech Stack 🖥
 
 
@@ -28,12 +31,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
 
+<br>
 
 ### 🌱 I’m currently learning🌱
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 
+<br>
+
+### 📧 Email 📧
+sobona0722@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bona0722&show_icons=true&theme=radical)
+</div>
