@@ -23,17 +23,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
-
 <br>
 
-### 🌱 I’m currently learning🌱
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
-
-<br>
 
 ### 📧 Email 📧
 sobona0722@gmail.com
