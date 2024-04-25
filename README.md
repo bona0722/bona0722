@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 📖 Program 📖
-SK Rookies (2023. 07~ 2023.12) 
+SK Rookies 15th (2023. 07~ 2023.12) - first place
 
 <br>
 
